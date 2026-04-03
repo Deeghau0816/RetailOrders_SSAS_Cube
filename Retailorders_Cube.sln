@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Retailorders_Cube", "Retailorders_Cube.dwproj", "{B665B8B6-2825-DB6C-4A9C-FD386E7F1BF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B665B8B6-2825-DB6C-4A9C-FD386E7F1BF2}.Development|Default.ActiveCfg = Development
+		{B665B8B6-2825-DB6C-4A9C-FD386E7F1BF2}.Development|Default.Build.0 = Development
+		{B665B8B6-2825-DB6C-4A9C-FD386E7F1BF2}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52B9E861-367C-4FCC-9F61-47E929438E0F}
+	EndGlobalSection
+EndGlobal
